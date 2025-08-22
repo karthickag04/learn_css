@@ -1,0 +1,68 @@
+/* Element Selector */
+
+p {
+    color: #333;
+}
+
+
+
+
+
+
+
+/* Class Selector */
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.title2 {
+    color: green;
+}
+
+
+.container{
+    background-color: #f3a6a6;
+}
+
+
+
+
+
+/* ID Selector */
+#unique {
+    color: blue;
+    font-style: italic;
+}
+
+
+
+
+
+/* Attribute Selector */
+a[target="_blank"] {
+    color: red;
+    text-decoration: underline;
+}
+
+
+
+
+
+/* Descendant Selector */
+.container h2 {
+    color: rgb(255, 255, 255);
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+
+
+
+
+/* Child Selector */
+ul > li {
+
+    color: orange;
+    font-size: 1.1em;
+}
