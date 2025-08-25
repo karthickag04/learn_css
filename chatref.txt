@@ -1,2 +1,5 @@
 Chat Ref for Styling paragraph Tags
 https://chatgpt.com/share/68a59449-e62c-800b-ae02-cdbdd823af95
+
+css selectors chat ref
+https://chatgpt.com/share/68ac345e-f2ac-800b-b7a1-4822c7a263c3
