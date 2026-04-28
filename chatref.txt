@@ -6,3 +6,6 @@ https://chatgpt.com/share/68ac345e-f2ac-800b-b7a1-4822c7a263c3
 
 chat ref for all css attributes for single tag
 https://chatgpt.com/share/69baa9aa-fdfc-800b-906f-b3e4b5f3cc3c
+
+chat ref added for Media Query
+https://chatgpt.com/share/69f05abf-4d80-83e8-b12f-877750172fb3
